@@ -1,0 +1,16 @@
+D:\MKSULAR\CSharp\Console\Auth\bin\Debug\net5.0\Auth.exe
+D:\MKSULAR\CSharp\Console\Auth\bin\Debug\net5.0\Auth.deps.json
+D:\MKSULAR\CSharp\Console\Auth\bin\Debug\net5.0\Auth.runtimeconfig.json
+D:\MKSULAR\CSharp\Console\Auth\bin\Debug\net5.0\Auth.runtimeconfig.dev.json
+D:\MKSULAR\CSharp\Console\Auth\bin\Debug\net5.0\Auth.dll
+D:\MKSULAR\CSharp\Console\Auth\bin\Debug\net5.0\ref\Auth.dll
+D:\MKSULAR\CSharp\Console\Auth\bin\Debug\net5.0\Auth.pdb
+D:\MKSULAR\CSharp\Console\Auth\obj\Debug\net5.0\Auth.csproj.AssemblyReference.cache
+D:\MKSULAR\CSharp\Console\Auth\obj\Debug\net5.0\Auth.GeneratedMSBuildEditorConfig.editorconfig
+D:\MKSULAR\CSharp\Console\Auth\obj\Debug\net5.0\Auth.AssemblyInfoInputs.cache
+D:\MKSULAR\CSharp\Console\Auth\obj\Debug\net5.0\Auth.AssemblyInfo.cs
+D:\MKSULAR\CSharp\Console\Auth\obj\Debug\net5.0\Auth.csproj.CoreCompileInputs.cache
+D:\MKSULAR\CSharp\Console\Auth\obj\Debug\net5.0\Auth.dll
+D:\MKSULAR\CSharp\Console\Auth\obj\Debug\net5.0\ref\Auth.dll
+D:\MKSULAR\CSharp\Console\Auth\obj\Debug\net5.0\Auth.pdb
+D:\MKSULAR\CSharp\Console\Auth\obj\Debug\net5.0\Auth.genruntimeconfig.cache
